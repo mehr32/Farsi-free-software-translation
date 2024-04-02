@@ -7,7 +7,7 @@
 
   
 | عنوان پروژه  | وضعیت ترجمه | مشکلات نمایش راست به چپ |
-| ------------- | ------------- |  ------------- |
+|:---:| :---:|:---:|
  ‏[libretube](https://github.com/libre-tube/LibreTube) | [نیازمند تکمیل](https://hosted.weblate.org/projects/libretube/-/fa/) |بدون مشکل ✔️  |
  ‏[News](https://github.com/bubelov/news) | [نیازمند تکمیل](https://github.com/bubelov/news/blob/master/app/src/main/res/values-fa/strings.xml) |بدون مشکل ✔️  |
 | ‏[Read you](https://github.com/Ashinch/ReadYou) | [نیازمند تکمیل](https://hosted.weblate.org/projects/readyou/-/fa/) <br> زبان فارسی در منو انتخاب زبان برنامه فعال نیست  |[عدم نمایش صحیح نیم‌فاصله در بخش متن خبر](https://github.com/Ashinch/ReadYou/issues/328)  |
