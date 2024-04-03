@@ -12,6 +12,6 @@
  ‏[News](https://github.com/bubelov/news) | [نیازمند تکمیل](https://github.com/bubelov/news/blob/master/app/src/main/res/values-fa/strings.xml) |بدون مشکل ✔️  |
 | ‏[Read you](https://github.com/Ashinch/ReadYou) | [نیازمند تکمیل](https://hosted.weblate.org/projects/readyou/-/fa/) <br> زبان فارسی در منو انتخاب زبان برنامه فعال نیست  |[عدم نمایش صحیح نیم‌فاصله در بخش متن خبر](https://github.com/Ashinch/ReadYou/issues/328)  |
 | ‏[PageKeeper](https://github.com/DesarrolloAntonio/Shiori-Android-Client) |بدون ترجمه |[عدم نمایش صحیح راست به چپ نیازمند کمک](https://github.com/DesarrolloAntonio/Shiori-Android-Client/issues/7)  |
-| ‏[Koreader](https://github.com/koreader/koreader) | [نیازمند تکمیل](https://hosted.weblate.org/projects/koreader/-/fa/) |بدون مشکل ✔️  |
+| ‏[Koreader](https://github.com/koreader/koreader) | [نیازمند تکمیل](https://hosted.weblate.org/projects/koreader/-/fa/) |[اعداد فارسی به شکل صحیح در رابط کاربری نمایش داده نمی‌شوند این مشکل به شکل موقت به واسطه یک وصله تا حدودی حل شده اما نه به شکل بهینه و نه در هسته نرم‌افزار نیازمند کمک](https://github.com/koreader/koreader/issues/10319)  |
 | ‏[miniflutt](https://github.com/DocMarty84/miniflutt) |بدون ترجمه |[عدم نمایش صحیح راست به چپ نیازمند کمک](https://github.com/DocMarty84/miniflutt/issues/39)  |
 | ‏[foot terminal](https://codeberg.org/dnkl/foot) |بدون ترجمه |[عدم نمایش صحیح راست به چپ نیازمند کمک](https://codeberg.org/dnkl/foot/issues/756)  |
